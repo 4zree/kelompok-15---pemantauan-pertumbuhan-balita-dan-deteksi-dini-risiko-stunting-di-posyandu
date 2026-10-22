@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KaderCek — UI Foundation v0.1.0
 
 KaderCek adalah rancangan aplikasi Android offline-first untuk membantu kader Posyandu mencatat pengukuran pertumbuhan balita.
@@ -76,3 +77,7 @@ lib/
 ## Penting
 
 KaderCek bukan alat diagnosis medis. Kategori status gizi hanya boleh ditampilkan setelah algoritma, tabel referensi, cakupan usia, dan aturan klasifikasi diverifikasi terhadap sumber resmi yang disepakati tim.
+=======
+# kelompok-15---pemantauan-pertumbuhan-balita-dan-deteksi-dini-risiko-stunting-di-posyandu
+tugas project mata kuliah capstone project
+>>>>>>> origin/main
